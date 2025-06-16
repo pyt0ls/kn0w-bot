@@ -1,3 +1,6 @@
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Kn0w-Bot+𝐕1.0;TOTALMENTE+GRÁTIS+✰✰✰;100%+CONFIÁVEL+✰✰✰;✰BY-PYTOLS-✰"> 
+
+# [<img src='https://i.imgur.com/47Ckzun.jpeg' />](https://instagram.com/pytols)
 
 <p align="center">
 <a href="#"><img title="KN0W BOT" src="https://img.shields.io/badge/KN0W-BOT-blue?&style=for-the-badge"></a>
@@ -12,16 +15,21 @@
   <img title="Versão" src="https://img.shields.io/badge/Versão-1.0.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
-_-_-_-_-_-_-_-_-
+> **ANDROID**
+> - - [ ] **KALI**
+> - - [ ] **TERMUX**  
+
+> **LINUX**
+> - - [X] **KALI**
+> - - [ ] **UBUNTU**
+
+_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 ## <img src="https://kn0w.infy.uk/bot.jpg" height="25px"> Sobre Kn0w!
 
 ---------------------------
 
 O kn0w é um bot multifuncional gratuito para Discord, perfeito para gerenciar, moderar e divertir sua comunidade com comandos de Economia, Moderação, Utilidade, ChatGPT e muito mais.
-sd
-
-dd
 
 ---------------------------
 
@@ -32,19 +40,13 @@ dd
 
 ---------------------------
 
-**<img src="https://cdn.discordapp.com/emojis/1382063944042020885.png?v=1&size=48&quality=lossless" height="25px"> 2° Economia**
+**2° Economia <img src="https://cdn.discordapp.com/emojis/1382063944042020885.png?v=1&size=48&quality=lossless" height="25px">**
 
----------------------------
+**3° Diversão <img src="https://cdn.discordapp.com/emojis/1382068282147733586.png?v=1&size=48&quality=lossless" height="25px">**
 
-**<img src="https://cdn.discordapp.com/emojis/1382068282147733586.png?v=1&size=48&quality=lossless" height="25px"> 3° Diversão**
+**4° Utilidades <img src="https://cdn.discordapp.com/emojis/1382068285054652539.png?v=1&size=48&quality=lossless" height="25px">**
 
----------------------------
-
-**<img src="https://cdn.discordapp.com/emojis/1382068285054652539.png?v=1&size=48&quality=lossless" height="25px"> 4° Utilidades**
-
----------------------------
-
-**<img src="https://cdn.discordapp.com/emojis/1382063941030776932.png?v=1&size=48&quality=lossless" height="25px"> 5° Moderação**
+**5° Moderação <img src="https://cdn.discordapp.com/emojis/1382063941030776932.png?v=1&size=48&quality=lossless" height="25px">**
 
 ---------------------------
 
@@ -58,11 +60,16 @@ https://files.fm/f/ubgvm6y39n
 
 
 ≪「𝐒𝐞𝐫𝐯𝐞𝐫 ﷼ 𝐊𝐧𝟎𝐰」≫
+
 https://discord.gg/NmWy87RjFe
 
 ---------------------------
 
-</> Entre na nossa comunidade!
+## <img src="https://kn0w.infy.uk/bot.jpg" height="25px"> Advione Kn0w!
+
+Clique no link e adicione diretamente!
+
+https://discord.com/oauth2/authorize?client_id=1361444936880492604&permissions=8&integration_type=0&scope=bot
 
 
 ## Hospedagem <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
