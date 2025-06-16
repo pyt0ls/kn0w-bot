@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="#"><img title="121 THERI0N DOMINA" src="https://img.shields.io/badge/121 THERI0N DOMINA-blue?&style=for-the-badge"></a>
+<a href="#"><img title="KN0W BOT" src="https://img.shields.io/badge/KN0W-BOT-blue?&style=for-the-badge"></a>
 </p>
 
 <div align="center">
@@ -27,23 +27,39 @@ O kn0w é um bot multifuncional gratuito para Discord, perfeito para gerenciar, 
 ---------------------------
 
 **<img src="https://cdn.discordapp.com/emojis/1382065757319462953.png?v=1&size=48&quality=lossless" height="25px"> 1° Social**
+
+---------------------------
+
 **<img src="https://cdn.discordapp.com/emojis/1382063944042020885.png?v=1&size=48&quality=lossless" height="25px"> 2° Economia**
+
+---------------------------
+
 **<img src="https://cdn.discordapp.com/emojis/1382068282147733586.png?v=1&size=48&quality=lossless" height="25px"> 3° Diversão**
+
+---------------------------
+
 **<img src="https://cdn.discordapp.com/emojis/1382068285054652539.png?v=1&size=48&quality=lossless" height="25px"> 4° Utilidades**
+
+---------------------------
+
 **<img src="https://cdn.discordapp.com/emojis/1382063941030776932.png?v=1&size=48&quality=lossless" height="25px"> 5° Moderação**
 
 ---------------------------
 
 ## <img src="https://cdn.discordapp.com/emojis/1382063937419215060.png?v=1&size=48&quality=lossless" height="25px"> Funções em vídeo!
 ---------------------------
+
 https://files.fm/f/ubgvm6y39n
+
 ---------------------------
 
 ## Precisa de Suporte? <img src="https://cdn.discordapp.com/emojis/1382068285054652539.png?v=1&size=48&quality=lossless" height="25px">
 
----------------------------
 
 ≪「𝐒𝐞𝐫𝐯𝐞𝐫 ﷼ 𝐊𝐧𝟎𝐰」≫
+
+---------------------------
+
 https://discord.gg/NmWy87RjFe
 
 ---------------------------
