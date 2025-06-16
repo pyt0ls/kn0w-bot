@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Kn0w-Bot+𝐕1.0;TOTALMENTE+GRÁTIS+✰✰✰;100%+CONFIÁVEL+✰✰✰;✰BY-PYTOLS-✰"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Kn0w-Bot+𝐕1.0;TOTALMENTE+GRÁTIS+✰✰✰;100%+CONFIÁVEL+✰✰✰;✰-BY-PYTOLS-✰"> 
 
 # [<img src='https://i.imgur.com/47Ckzun.jpeg' />](https://instagram.com/pytols)
 
