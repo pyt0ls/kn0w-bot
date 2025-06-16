@@ -6,12 +6,8 @@
 <a href="#"><img title="KN0W BOT" src="https://img.shields.io/badge/KN0W-BOT-blue?&style=for-the-badge"></a>
 </p>
 
-<div align="center">
-<img src="https://kn0w.infy.uk/bot.jpg" alt="Kn0w-Bot" width="300" />
-
 <p align="center">
   <a href="https://instagram.com/pytols"><img title="Author" src="https://img.shields.io/badge/Author-Pytols-red.svg?style=for-the-badge&logo=github" /></a>
-  <h4 align="center">
   <img title="Versão" src="https://img.shields.io/badge/Versão-1.0.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
@@ -22,6 +18,7 @@
 > **LINUX**
 > - - [X] **KALI**
 > - - [ ] **UBUNTU**
+#
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
@@ -36,9 +33,7 @@ O kn0w é um bot multifuncional gratuito para Discord, perfeito para gerenciar, 
 ## <img src="https://cdn.discordapp.com/emojis/1382086832757407867.png?v=1&size=48&quality=lossless" height="25px"> Categorias!
 
 
-**<img src="https://cdn.discordapp.com/emojis/1382065757319462953.png?v=1&size=48&quality=lossless" height="25px"> 1° Social**
-
----------------------------
+**1° Social <img src="https://cdn.discordapp.com/emojis/1382065757319462953.png?v=1&size=48&quality=lossless" height="25px">**
 
 **2° Economia <img src="https://cdn.discordapp.com/emojis/1382063944042020885.png?v=1&size=48&quality=lossless" height="25px">**
 
@@ -65,7 +60,7 @@ https://discord.gg/NmWy87RjFe
 
 ---------------------------
 
-## <img src="https://kn0w.infy.uk/bot.jpg" height="25px"> Advione Kn0w!
+## <img src="https://kn0w.infy.uk/bot.jpg" height="25px"> Adicione o Kn0w!
 
 Clique no link e adicione diretamente!
 
