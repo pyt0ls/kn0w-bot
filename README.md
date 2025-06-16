@@ -19,12 +19,14 @@ _-_-_-_-_-_-_-_-
 ---------------------------
 
 O kn0w é um bot multifuncional gratuito para Discord, perfeito para gerenciar, moderar e divertir sua comunidade com comandos de Economia, Moderação, Utilidade, ChatGPT e muito mais.
+sd
+
+dd
 
 ---------------------------
 
 ## <img src="https://cdn.discordapp.com/emojis/1382086832757407867.png?v=1&size=48&quality=lossless" height="25px"> Categorias!
 
----------------------------
 
 **<img src="https://cdn.discordapp.com/emojis/1382065757319462953.png?v=1&size=48&quality=lossless" height="25px"> 1° Social**
 
@@ -47,19 +49,15 @@ O kn0w é um bot multifuncional gratuito para Discord, perfeito para gerenciar, 
 ---------------------------
 
 ## <img src="https://cdn.discordapp.com/emojis/1382063937419215060.png?v=1&size=48&quality=lossless" height="25px"> Funções em vídeo!
----------------------------
 
 https://files.fm/f/ubgvm6y39n
 
 ---------------------------
 
-## Precisa de Suporte? <img src="https://cdn.discordapp.com/emojis/1382068285054652539.png?v=1&size=48&quality=lossless" height="25px">
+## <img src="https://cdn.discordapp.com/emojis/1382068285054652539.png?v=1&size=48&quality=lossless" height="25px"> Precisa de Suporte?
 
 
 ≪「𝐒𝐞𝐫𝐯𝐞𝐫 ﷼ 𝐊𝐧𝟎𝐰」≫
-
----------------------------
-
 https://discord.gg/NmWy87RjFe
 
 ---------------------------
